@@ -1,0 +1,8 @@
+# Rendered website
+/public
+
+# Binary images
+.svg
+.png
+.jpeg
+.jpg
